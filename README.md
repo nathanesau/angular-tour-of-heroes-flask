@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.11.
 
+A few minor modifications have been made compared to the angular tour of heroes tutorial. Most notably, api is a flask API not in-memory. Run it using ``python3 api/app.py``.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
